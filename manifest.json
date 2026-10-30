@@ -1,0 +1,10 @@
+{
+  "name": "THE NOTH AI",
+  "short_name": "NOTH AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0f19",
+  "theme_color": "#10131f",
+  "lang": "ar",
+  "dir": "rtl"
+}
